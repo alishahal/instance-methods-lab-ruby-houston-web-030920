@@ -5,7 +5,11 @@ def bark
 end
 
 def sit
-  puts ""
+  puts "The Dog is sitting"
+end
+
+end
+
 bark = Dog.new
 
 sit = Dog.new
